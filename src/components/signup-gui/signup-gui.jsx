@@ -13,7 +13,7 @@ const SignUpGuiComponent = function (props) {
     const { intl } = props;
     return (
         <form id="signup-div" onSubmit={handleSubmit}>
-            <h2>DinosaurMod</h2>
+            <h2>GaiaMod</h2>
             <Gap size="10px" />
             <p>Create your personal account</p>
             <Gap size="18px" />

@@ -126,4 +126,17 @@
 .menu-bar_language-option.dark-mode:hover {
     background-color: #90f000;
 }
+
+	.moon {
+    	display: block;
+	}
+	.sun {
+    	display: none;
+	}
+	:global(body.dark-mode) .moon {
+    	display: none;
+	}
+	:global(body.dark-mode) .sun {
+    	display: block;
+	}
   
