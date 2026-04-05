@@ -1,5 +1,5 @@
 .sectionLinks {
-    background: #hsla(240, 65%, 68%, 1);
+    background: hsla(240, 65%, 68%, 1);
     color: white;
     display: flex;
     flex-direction: row;
