@@ -1,5 +1,5 @@
 .sectionLinks {
-    background: hsla(240, 65%, 70%, 1);
+    background: hsla(240, 65%, 60%, 1);
     color: white;
     display: flex;
     flex-direction: row;
@@ -11,5 +11,5 @@
 }
 
 .sectionLinks.dark-mode {
-    background: hsla(240, 65%, 65%, 1);
+    background: hsla(240, 65%, 55%, 1);
 }
