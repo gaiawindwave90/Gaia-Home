@@ -9,7 +9,7 @@
     outline-style: solid;
     outline-color: rgba(146, 239, 24, 0.35);
     color: white;
-    background-color: #80f41a;
+    background-color: hsla(240, 65%, 50%, 1);
     cursor: pointer;
     display: flex;
     flex-direction: row;
@@ -25,7 +25,7 @@
 .sectionInfoButtonHighlight {
     outline: 0px;
     background-color: white;
-    color: #80f41a;
+    color: hsla(240, 65%, 50%, 1);
 }
 .sectionInfoButtonToggled {
     background-color: transparent !important;
