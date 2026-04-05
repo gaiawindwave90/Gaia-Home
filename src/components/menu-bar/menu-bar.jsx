@@ -72,19 +72,19 @@ const MenuBarComponent = function (props) {
                     </ul>
                 </li>
                 <li className="menu-bar_li">
-                    <a id="IconImage" href="https://dinosaurmod.github.io/Dino-Home"><img src="https://dinosaurmod.github.io/favicon.ico" alt="Icon"/></a>
+                    <a id="IconImage" href="https://gaiamod-main.github.io/Gaia-Home"><img src="https://gaiamod-main.github.io/favicon.ico" alt="Icon"/></a>
                 </li>
                 <li className="menu-bar_li">
                     <a className="menu-bar_a" id="darkModeToggle"><img src={moonIcon} alt="Moon Icon"/></a>
                 </li>
                 <li className="menu-bar_li">
-                    <a className="menu-bar_a" href="https://dinosaurmod.github.io/editor.html">{intl ? intl.formatMessage(messages.createText) : "Create"}</a>
+                    <a className="menu-bar_a" href="https://gaiamod-main.github.io/editor.html">{intl ? intl.formatMessage(messages.createText) : "Create"}</a>
                 </li>
                 <li className="menu-bar_li">
-                    <a className="menu-bar_a" href="/Dino-Home/examples">{intl ? intl.formatMessage(messages.examplesText) : "Examples"}</a>
+                    <a className="menu-bar_a" href="/Gaia-Home/examples">{intl ? intl.formatMessage(messages.examplesText) : "Examples"}</a>
                 </li>
                 <li className="menu-bar_li">
-                    <a className="menu-bar_a" href="https://dinosaurmod.betteruptime.com/">{intl ? intl.formatMessage(messages.statusText) : "Status"}</a>
+                    <a className="menu-bar_a" href="https://gaiamod.betteruptime.com/">{intl ? intl.formatMessage(messages.statusText) : "Status"}</a>
                 </li>
                 <li className="menu-bar_li">
                     {/*<button id="menubar_searchIcon">&#128269;</button>

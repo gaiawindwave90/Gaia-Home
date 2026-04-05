@@ -1,1 +1,1 @@
-export const BRAND_NAME = "DinosaurMod";
+export const BRAND_NAME = "GaiaMod";
