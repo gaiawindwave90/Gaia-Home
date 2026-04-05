@@ -16,10 +16,10 @@
     align-items: center;
 }
 .sectionInfoButton:hover {
-    background-color: #8ef335;
+    background-color: #hsla(240, 65%, 58%, 1);
 }
 .sectionInfoButton:focus {
-    background-color: #8ef335;
+    background-color: #hsla(240, 65%, 58%, 1);
     outline-width: 4px;
 }
 .sectionInfoButtonHighlight {
