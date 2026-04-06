@@ -76,10 +76,7 @@ const MenuBarComponent = function (props) {
                     <a id="IconImage" href="https://gaiamod-main.github.io/Gaia-Home"><img src="https://gaiamod-main.github.io/favicon.ico" alt="Icon"/></a>
                 </li>
                 <li className="menu-bar_li">
-                    <a className="menu-bar_a" id="darkModeToggle" class="moon"><img src={moonIcon} alt="ThemeSwitcher"/></a>
-                </li>
-                <li className="menu-bar_li">
-                    <a className="menu-bar_a" id="darkModeToggle" class="sun"><img src={sunIcon} alt="ThemeSwitcher"/></a>
+                    <a className="menu-bar_a" id="darkModeToggle"><img src={moonIcon} alt="Moon Icon"/></a>
                 </li>
                 <li className="menu-bar_li">
                     <a className="menu-bar_a" href="https://gaiamod-main.github.io/editor.html">{intl ? intl.formatMessage(messages.createText) : "Create"}</a>

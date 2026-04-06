@@ -116,7 +116,7 @@
 }
   
 .menu-bar_language-option:hover {
-    background-color: #9CFC47;
+    background-color: #5647FC;
 }
 
 .menu-bar_language-option.dark-mode {
@@ -124,6 +124,6 @@
 }
 
 .menu-bar_language-option.dark-mode:hover {
-    background-color: #90f000;
+    background-color: #0014F0;
 }
   
