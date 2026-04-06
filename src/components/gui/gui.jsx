@@ -28,7 +28,6 @@ const messages = defineMessages({
     homePageText: {
         id: "home.section.welcomemessage",
         defaultMessage: 'Welcome to the Home Page of GaiaMod!',
-        defaultMessage: 'Welcome to the Home Page of GaiaMod!',
         description: 'welcome text'
     },
     examplesPageText: {
