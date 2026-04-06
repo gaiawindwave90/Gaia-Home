@@ -1,2 +1,2 @@
-# Gaia-Home
-This is home of GaiaMod.
+# Dino-Home
+This is home of dinosaurmod.
