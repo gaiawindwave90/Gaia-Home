@@ -17,18 +17,13 @@ const SectionLinksComponent = function (props) {
         >
             <ButtonComponent
                 intl={intl}
-                label={'Packager'}
-                link={'https://dinosaurmod.github.io/Dinosaurmod-Packager'}
-            />
-            <ButtonComponent
-                intl={intl}
                 label={'Credits'}
-                link={'https://dinosaurmod.github.io/credits.html'}
+                link={'https://gaiamod-main.github.io/GaiaMod/credits.html'}
             />
             <ButtonComponent
                 intl={intl}
                 label={'GitHub'}
-                link={'https://github.com/Dinosaurmod'}
+                link={'https://github.com/GaiaMod-Main/'}
             />
         </div>
     )
