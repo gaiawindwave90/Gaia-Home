@@ -116,7 +116,7 @@
 }
   
 .menu-bar_language-option:hover {
-    background-color: #9CFC47;
+    background-color: #5647FC;
 }
 
 .menu-bar_language-option.dark-mode {
@@ -124,19 +124,6 @@
 }
 
 .menu-bar_language-option.dark-mode:hover {
-    background-color: #90f000;
+    background-color: #0014F0;
 }
-
-	#darkModeToggle.moon {
-    	display: block;
-	}
-	#darkModeToggle.sun {
-    	display: none;
-	}
-	:global(body.dark-mode) #darkModeToggle.moon {
-    	display: none;
-	}
-	:global(body.dark-mode) #darkModeToggle.sun {
-    	display: block;
-	}
   
