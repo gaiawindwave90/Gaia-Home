@@ -72,7 +72,7 @@ const MenuBarComponent = function (props) {
                     </ul>
                 </li>
                 <li className="menu-bar_li">
-                    <a id="IconImage" href="https://gaiamod-main.github.io/Gaia-Home"><img src="https://gaiamod-main.github.io/favicon.ico" alt="Icon"/></a>
+                    <a id="IconImage" href="https://gaiamod-main.github.io/Gaia-Home"><img src="https://github.com/GaiaMod-Main/GaiaMod-Extensions/raw/refs/heads/main/favicon.ico" alt="Icon"/></a>
                 </li>
                 <li className="menu-bar_li">
                     <a className="menu-bar_a" id="darkModeToggle"><img src={moonIcon} alt="Moon Icon"/></a>
