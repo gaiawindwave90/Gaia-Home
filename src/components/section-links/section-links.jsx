@@ -18,7 +18,7 @@ const SectionLinksComponent = function (props) {
             <ButtonComponent
                 intl={intl}
                 label={'Credits'}
-                link={'https://gaiamod-main.github.io/GaiaMod/credits.html'}
+                link={'https://gaiamod-main.github.io/credits.html'}
             />
             <ButtonComponent
                 intl={intl}

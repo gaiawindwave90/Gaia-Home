@@ -68,8 +68,8 @@ const FooterComponent = function (props) {
             <h1>{Utils.formatMessage(messages.notaffiliatedText, intl, "GaiaMod is not affiliated with Scratch, TurboWarp, PenguinMod, the Scratch Team, or the Scratch Foundation.")}</h1>
             <div className="footer-row">
                 <h3>{Utils.formatMessage(messages.websiteText, intl, "Website")}</h3>
-                <a href="https://gaiamod-main.github.io/GaiaMod/editor.html">{Utils.formatMessage(messages.row1EditorText, intl, "Editor")}</a>
-                <a href="https://gaiamod-main.github.io/GaiaMod/credits.html">{Utils.formatMessage(messages.row1CreditsText, intl, "Editor")}</a>
+                <a href="https://gaiamod-main.github.io/editor.html">{Utils.formatMessage(messages.row1EditorText, intl, "Editor")}</a>
+                <a href="https://gaiamod-main.github.io/credits.html">{Utils.formatMessage(messages.row1CreditsText, intl, "Editor")}</a>
                 <a href="/Gaia-Home/examples">{Utils.formatMessage(messages.row1ExamplesText, intl, "Editor")}</a>
                 <a href="https://github.com/gaiamod-main">{Utils.formatMessage(messages.row1SourceText, intl, "Editor")}</a>
                 <a href="https://gaiamod.betteruptime.com/">{Utils.formatMessage(messages.row1StatusText, intl, "Editor")}</a>
