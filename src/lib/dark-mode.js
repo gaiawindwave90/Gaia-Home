@@ -21,7 +21,8 @@ $(document).ready(function(){
         $('body').removeClass('dark-mode light-mode').addClass(mode);
         $('nav').removeClass('dark-mode light-mode').addClass(mode);
         $('section').removeClass('dark-mode light-mode').addClass(mode);
-        $('footer').removeClass('dark-mode light-mode').addClass(mode);
+        $('.footer').removeClass('dark-mode light-mode').addClass(mode);
+        $('.footer-row').removeClass('dark-mode light-mode').addClass(mode);
         $('.footer-row a').removeClass('dark-mode light-mode').addClass(mode);
         $('.section-info').removeClass('dark-mode light-mode').addClass(mode);
         $('.menu-bar_languages-dropdown').removeClass('dark-mode light-mode').addClass(mode);
