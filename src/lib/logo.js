@@ -1,1 +1,1 @@
-export const BRAND_LOGO = "https://gaiamod-main.github.io/logo.png";
+export const BRAND_LOGO = "logo.png";
