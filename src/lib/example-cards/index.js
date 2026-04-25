@@ -1,7 +1,7 @@
 import WhackVioThumb from './WhackVioThumb.png';
 import DominoThumb from './DominoThumb.png';
 import ILoveYouThumb from './ILoveYouThumb.png';
-import ILoveYouThumb from './ChatGPTThumb.png';
+import ChatGPTThumb from './ChatGPTThumb.png';
 
 const exampleCards = [
     {
@@ -21,7 +21,7 @@ const exampleCards = [
     },
     {
         name: "ChatGPT",
-        iconURL: ILoveYouThumb,
+        iconURL: ChatGPTThumb,
         href: "https://gaiamod-main.github.io/?project_url=https://github.com/GaiaMod-Main/examples/raw/refs/heads/main/src/gaia-files/ChatGPT.gaia"
     }
 ]
