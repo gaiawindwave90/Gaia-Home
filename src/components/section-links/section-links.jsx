@@ -17,6 +17,11 @@ const SectionLinksComponent = function (props) {
         >
             <ButtonComponent
                 intl={intl}
+                label={'Packager'}
+                link={'https://gaiamod-main.github.io/GaiaMod-Packager/'}
+            />
+            <ButtonComponent
+                intl={intl}
                 label={'Credits'}
                 link={'https://gaiamod-main.github.io/credits.html'}
             />
@@ -24,6 +29,11 @@ const SectionLinksComponent = function (props) {
                 intl={intl}
                 label={'GitHub'}
                 link={'https://github.com/GaiaMod-Main/'}
+            />
+            <ButtonComponent
+                intl={intl}
+                label={'Gaia Zone'}
+                link={'https://gaiawindwave90.github.io/'}
             />
         </div>
     )

@@ -1,5 +1,5 @@
 .footer {
-    background-color: rgb(225, 255, 225);
+    background-color: #CFD2FF;
     color: black;
     text-align: center;
     padding: 20px;
@@ -10,7 +10,7 @@
 }
 
 .footer.dark-mode {
-    background-color: #333333;
+    background-color: #00058A;
     color: white;
 }
 
@@ -21,14 +21,14 @@
 }
 
 .footer-row a {
-    color: var(--motion-primary);
+    color: var(--motion-primary-dark);
     text-decoration: underline;
     display: block;
     margin-bottom: 5px;
 }
 
 .footer-row a.dark-mode {
-    color: var(--motion-primary-dark);
+    color: var(--motion-primary);
     text-decoration: underline;
     display: block;
     margin-bottom: 5px;
