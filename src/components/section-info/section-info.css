@@ -38,3 +38,15 @@
 .section-info.dark-mode {
     background: hsla(240, 65%, 50%, 1);
 }
+
+.scratch{
+    color: orange;
+}
+
+.turbowarp{
+    color: red;
+}
+
+.penguinmod{
+    color: cyan;
+}
