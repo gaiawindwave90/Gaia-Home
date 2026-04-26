@@ -12,32 +12,8 @@ import openEditor from './button.js';
 const SectionInfoComponent = function (props) {
     const { intl } = props;
     return (
-        <div className="section-info">
-            <h2>Block-based coding with many special capabilities</h2>
-            <h2>
-			Built off of
-			<a
-			className="scratch"
-			style={{ color: 'orange' }}
-			href="https://scratch.mit.edu">
-			Scratch
-			</a>,
-			<a
-			className="turbowarp"
-			style={{ color: 'red' }}
-			href="https://turbowarp.org">
-			TurboWarp
-			</a>,
-			and
-			<a
-			className="penguinmod"
-			style={{ color: 'cyan'}}
-			href="https://penguinmod.com">
-			PenguinMod
-			</a>.
-			</h2>
-            <button onClick={openEditor} ><img src={codeIcon}></img>Try it out!</button>
-        </div>
+        <div className="section-info"><h2>Block-based coding with many special capabilities</h2><h2> Built off of <a style={{ color: 'orange' }} href="https://scratch.mit.edu"> Scratch</a>, <a style={{ color: 'red' }} href="https://turbowarp.org"> TurboWarp</a>, and
+			<a style={{ color: 'cyan'}} href="https://penguinmod.com"> PenguinMod</a>.</h2> <button onClick={openEditor} ><img src={codeIcon}></img>Try it out!</button></div>
     )
 }
 
